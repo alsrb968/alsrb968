@@ -3,10 +3,6 @@
 
 - 🌱 I’m currently learning **Android, Flask**
 
-- 💬 Ask me about **Android App, AOSP**
-
-- 📫 How to reach me **alsrb6752@gmail.com**
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
 <img src="https://img.shields.io/badge/java-007396?logo=java&logoColor=white"/>
@@ -27,7 +23,7 @@
 <img src="https://img.shields.io/badge/sqlite-003B57?logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=white"/>
 </div>
-<div align="left>
+<div align="left">
 <img src="https://img.shields.io/badge/slack-4A154B?logo=slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/notion-000000?logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/jira-0052CC?logo=jira&logoColor=white"/>
@@ -35,7 +31,3 @@
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alsrb968&show_icons=true&locale=en&layout=compact" alt="alsrb968" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alsrb968&show_icons=true&locale=en" alt="alsrb968" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alsrb968&" alt="alsrb968" /></p>
