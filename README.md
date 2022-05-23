@@ -1,16 +1,18 @@
-# Hi 👋, I'm Jacob Kang</h1>
-A passionate Android developer
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Jacob Kang
+A passionate Android developer.
+</br>
+I enjoy refactoring legacy code into kotlin.
 
-🌱 I’m currently learning Android, Flask
+🌱 I’m currently learning Kotlin, Typescript
 
-### 🤝 Connect with me:
+🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/minkyu-kang-b7477b1b2/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Minkyu Kang | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/_jacob_kang/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Jacob Kang | Instagram" width="21px"/></a>
 
 </br>
 
-# Languages and Tools:
+# Languages and Tools
 
 <div align="left">
 <img src="https://img.shields.io/badge/java-007396?logo=java&logoColor=white"/>
@@ -38,11 +40,11 @@ A passionate Android developer
 <img src="https://img.shields.io/badge/notion-000000?logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/jira-0052CC?logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/postman-FF6C37?logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/intellij IDEA-000000?logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/intellij-000000?logo=intellijidea&logoColor=white"/>
 <img src="https://img.shields.io/badge/pycharm-000000?logo=pycharm&logoColor=white"/>
 </div>
 
-</br>
+# WakaTime
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
