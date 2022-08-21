@@ -47,7 +47,7 @@ I enjoy refactoring legacy code into kotlin.
 # WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-234%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -130,7 +130,7 @@ C++                      6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on August 20, 2022 at 02:18:44 UTC
+ Last Updated on August 21, 2022 at 02:10:16 UTC
 <!--END_SECTION:waka-->
 
 </br>
