@@ -47,7 +47,7 @@ I enjoy refactoring legacy code into kotlin.
 # WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C134%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C146%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -112,8 +112,11 @@ LM18I_Library            1 hr 47 mins        █░░░░░░░░░░�
 JikkoLab-android         1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.69%
 
 💻 Operating System: 
-Mac                      25 hrs 32 mins      ████████████████████████░   96.45% 
-Windows                  56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.55%
+android.content          13 hrs 36 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   5.86% 
+android.os               13 hrs 34 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   5.85% 
+hanhwa.lm18i             12 hrs 48 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   5.52% 
+android.view             12 hrs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.17% 
+android.widget           11 hrs 59 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   5.17%
 
 ```
 
@@ -130,7 +133,7 @@ C++                      6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on September 03, 2022 at 02:33:35 UTC
+ Last Updated on September 04, 2022 at 02:34:11 UTC
 <!--END_SECTION:waka-->
 
 </br>
