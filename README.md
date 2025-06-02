@@ -47,7 +47,7 @@ I enjoy refactoring legacy code into kotlin.
 # WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C874%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C875%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,6 +56,8 @@ I enjoy refactoring legacy code into kotlin.
 **🐱 My GitHub Data** 
 
 > 📦 177.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 200 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -125,7 +127,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on June 01, 2025 at 00:39:23 UTC
+ Last Updated on June 02, 2025 at 00:34:13 UTC
 <!--END_SECTION:waka-->
 
 </br>
