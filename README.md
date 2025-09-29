@@ -47,8 +47,6 @@ I enjoy refactoring legacy code into kotlin.
 # WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C446%20hrs%205%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
@@ -128,7 +126,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on September 28, 2025 at 00:27:33 UTC
+ Last Updated on September 29, 2025 at 00:25:38 UTC
 <!--END_SECTION:waka-->
 
 </br>
