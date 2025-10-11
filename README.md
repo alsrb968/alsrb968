@@ -92,19 +92,16 @@ Sunday                   198 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Kotlin                   42 mins             ████████████████████████░   96.25 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           42 mins             ████████████████████████░   96.23 % 
-Cursor                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Episodive                42 mins             ████████████████████████░   96.23 % 
-igozogo                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      44 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -120,7 +117,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on October 10, 2025 at 00:26:15 UTC
+ Last Updated on October 11, 2025 at 00:24:52 UTC
 <!--END_SECTION:waka-->
 
 </br>
