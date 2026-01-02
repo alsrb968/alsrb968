@@ -51,7 +51,7 @@ I enjoy refactoring legacy code into kotlin.
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.98%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -126,7 +126,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on January 01, 2026 at 00:29:35 UTC
+ Last Updated on January 02, 2026 at 00:28:30 UTC
 <!--END_SECTION:waka-->
 
 </br>
