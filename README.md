@@ -47,8 +47,6 @@ I enjoy refactoring legacy code into kotlin.
 # WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C150%20hrs%2033%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.29%20million%20lines%20of%20code-blue?style=flat)
@@ -126,7 +124,7 @@ BitBake                  1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on May 23, 2026 at 00:49:52 UTC
+ Last Updated on May 24, 2026 at 00:50:12 UTC
 <!--END_SECTION:waka-->
 
 </br>
